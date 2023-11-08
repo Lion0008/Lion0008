@@ -18,7 +18,7 @@ Mi mayor fortaleza como profesional es mi dedicación y compromiso con mi trabaj
 
 ## Estadísticas de GitHub
 
-[![Mis estadísticas en GitHub](https://github-readme-stats.vercel.app/api?username=Lion0008&show_icons=true&count_private=true&theme=radical)](https://github.com/Lion0008)
+[![Mis estadísticas en GitHub](https://github-readme-stats.vercel.app/api?username=Lion0008&show_icons=true&count_private=true&theme=vue)](https://github.com/Lion0008)
 
 ## Contacto
 
