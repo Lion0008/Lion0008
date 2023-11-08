@@ -25,4 +25,37 @@ Mi mayor fortaleza como profesional es mi dedicación y compromiso con mi trabaj
 - 📧 Puedes contactarme por correo electrónico en [bgleon17@gmail.com].
 - 💼 Conéctame en [LinkedIn](https://www.linkedin.com/in/bryan-leon-46930722b/).
 
+## Juego: Adivina el Número
+
+Puedes jugar adivinando un número del 1 al 10. Abre la consola en tu navegador y prueba suerte:
+
+```javascript
+let numeroAleatorio = Math.floor(Math.random() * 10) + 1;
+let intentos = 3;
+
+function adivinaElNumero() {
+  let respuesta = prompt("Adivina el número del 1 al 10:");
+
+  if (respuesta === null) {
+    alert("¡Hasta luego! 👋");
+  } else {
+    let numeroElegido = parseInt(respuesta);
+
+    if (numeroElegido === numeroAleatorio) {
+      alert("¡Correcto! ¡Has adivinado el número!");
+    } else {
+      intentos--;
+      alert(`Incorrecto. Te quedan ${intentos} intentos.`);
+
+      if (intentos > 0) {
+        adivinaElNumero();
+      } else {
+        alert(`¡Agotaste tus intentos! El número era ${numeroAleatorio}.`);
+      }
+    }
+  }
+}
+
+adivinaElNumero();
+
 ¡Gracias por visitar mi perfil!
