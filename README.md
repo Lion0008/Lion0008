@@ -20,6 +20,10 @@ Mi mayor fortaleza como profesional es mi dedicación y compromiso con mi trabaj
 
 [![Mis estadísticas en GitHub](https://github-readme-stats.vercel.app/api?username=Lion0008&show_icons=true&count_private=true&theme=shades-of-blue)](https://github.com/Lion0008)
 
+## Estadísticas Adicionales
+[![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=Lion0008&layout=compact&theme=shades-of-blue)](https://github.com/Lion0008)
+
+
 ## Contacto
 
 - 📧 Puedes contactarme por correo electrónico en [bgleon17@gmail.com].
