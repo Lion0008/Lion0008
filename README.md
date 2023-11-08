@@ -1,23 +1,24 @@
 # ¡Hola! 👋 Soy Bryan León
 
-¡Bienvenido a mi perfil de GitHub! Soy un apasionado desarrollador con experiencia en proyectos emocionantes y desafiantes.
+¡Bienvenido a mi perfil de GitHub!
+
+Como profesional especializado en el desarrollo de software, dispongo de una sólida formación y amplia experiencia en áreas críticas como la programación, diseño y implementación de sitios web. Esto me permite diseñar soluciones de software innovadoras y de alta calidad.
+
+Mi mayor fortaleza como profesional es mi dedicación y compromiso con mi trabajo. Estoy siempre al tanto de las últimas tendencias y tecnologías en mi área. Además, poseo habilidades analíticas y resolutivas, lo que me permite identificar y solucionar problemas de manera eficiente y efectiva.
 
 ## Acerca de mí
 
-- 👨‍💻 Actualmente trabajo como Desarrollador de Software.
-- 🎓 Graduado en Ingeniería en Sistemas de Información.
+- 👨‍💻 Tecnólogo Superior en Desarrollo de Software.
 
 ## Tecnologías y Herramientas
 
-![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-
 
 ## Estadísticas de GitHub
 
-[![Mis estadísticas en GitHub](https://github-readme-stats.vercel.app/api?username=TU_NOMBRE_DE_USUARIO&show_icons=true&count_private=true&theme=radical)](https://github.com/TU_NOMBRE_DE_USUARIO)
+[![Mis estadísticas en GitHub](https://github-readme-stats.vercel.app/api?username=Lion0008&show_icons=true&count_private=true&theme=radical)](https://github.com/Lion0008)
 
 ## Contacto
 
