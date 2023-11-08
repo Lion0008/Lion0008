@@ -27,7 +27,8 @@ Mi mayor fortaleza como profesional es mi dedicación y compromiso con mi trabaj
 ## Contacto
 
 - 📧 Puedes contactarme por correo electrónico en [bgleon17@gmail.com].
-- 💼 Conéctame en [LinkedIn](https://www.linkedin.com/in/bryan-leon-46930722b/).
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/bryan-leon-46930722b/)
 
 
 ¡Gracias por visitar mi perfil!
